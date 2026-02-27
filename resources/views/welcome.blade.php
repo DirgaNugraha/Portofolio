@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <title>Dirga | Portfolio</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
@@ -478,6 +479,22 @@
         .exp-role { font-size: 1rem; font-weight: 600; color: #fff; margin-bottom: 4px; }
         .exp-org { font-size: 0.82rem; font-weight: 400; color: var(--red); margin-bottom: 10px; }
         .exp-desc { font-size: 0.82rem; font-weight: 300; color: var(--muted2); line-height: 1.75; grid-column: 1; }
+        .exp-view-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            margin-top: 14px;
+            font-size: 0.72rem;
+            font-weight: 500;
+            color: var(--muted2);
+            text-decoration: none;
+            border: 1px solid var(--border);
+            padding: 5px 12px;
+            border-radius: 6px;
+            transition: color 0.2s, border-color 0.2s;
+        }
+        .exp-view-btn:hover { color: #fff; border-color: rgba(255,255,255,0.25); }
+        .exp-view-btn svg { width: 13px; height: 13px; stroke: currentColor; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
         .exp-period {
             font-size: 0.72rem;
             font-weight: 500;
@@ -822,6 +839,13 @@
                 <p class="exp-role">Anggota Bidang Pengaderan</p>
                 <p class="exp-org">BE Himatika FMIPA Unhas</p>
                 <p class="exp-desc">Aktif dalam kegiatan pengaderan dan pembinaan anggota baru, berkontribusi dalam merancang program pengembangan organisasi, serta membantu koordinasi kegiatan internal himpunan.</p>
+                <a href="https://www.instagram.com/himatikafmipaunhas/" target="_blank" class="exp-view-btn">
+                    <svg viewBox="0 0 24 24">
+                        <rect x="2" y="2" width="20" height="20" rx="5"/>
+                        <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"/>
+                    </svg>
+                    View Instagram
+                </a>
             </div>
             <span class="exp-period">2025 – Now</span>
         </div>
@@ -830,6 +854,13 @@
                 <p class="exp-role">Ketua Panitia Mathematics, Actuarial, Information Systems Competition &amp; Summit (MATICS)</p>
                 <p class="exp-org">Himatika FMIPA Unhas</p>
                 <p class="exp-desc">Memimpin kepanitiaan Mathematics, Actuarial, Information Systems Competition & Summit (MATICS), mengkoordinasikan seluruh divisi, mengelola anggaran, serta memastikan kelancaran pelaksanaan kompetisi dari tahap persiapan hingga selesai.</p>
+                <a href="https://www.instagram.com/matics_unhas/" target="_blank" class="exp-view-btn">
+                    <svg viewBox="0 0 24 24">
+                        <rect x="2" y="2" width="20" height="20" rx="5"/>
+                        <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"/>
+                    </svg>
+                    View Instagram
+                </a>
             </div>
             <span class="exp-period">Aug 2025 – Feb 2026</span>
         </div>
@@ -838,6 +869,13 @@
                 <p class="exp-role">Ketua Panitia Proyek Edukasi Masyarakat Inklusif I (PREMI I) 2025</p>
                 <p class="exp-org">Himatika FMIPA Unhas</p>
                 <p class="exp-desc">Memimpin kepanitiaan Proyek Edukasi Masyarakat Inklusif I, bertanggung jawab atas koordinasi tim, pelaksanaan program edukasi masyarakat, serta memastikan seluruh kegiatan berjalan sesuai tujuan dan jadwal yang ditetapkan.</p>
+                <a href="https://www.instagram.com/premihimatika/" target="_blank" class="exp-view-btn">
+                    <svg viewBox="0 0 24 24">
+                        <rect x="2" y="2" width="20" height="20" rx="5"/>
+                        <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"/>
+                    </svg>
+                    View Instagram
+                </a>
             </div>
             <span class="exp-period">Feb 2025 – Mar 2025</span>
         </div>
