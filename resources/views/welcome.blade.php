@@ -905,7 +905,6 @@
 </footer>
 
 <script>
-    window.onbeforeunload = () => window.scrollTo(0, 0);
     // ── FUTURISTIC BACKGROUND CANVAS ──
     (function() {
         const canvas = document.getElementById('heroBg');
