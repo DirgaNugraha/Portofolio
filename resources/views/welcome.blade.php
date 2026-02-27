@@ -597,7 +597,7 @@
     </div>
     <div class="hero-photo-wrap">
         <div class="hero-photo-frame">
-            <img src="fotodirga.jpg" alt="Foto Dirga">
+            <<img src="{{ asset('fotodirga.jpg') }}" alt="Foto Dirga">
         </div>
     </div>
 </section>
