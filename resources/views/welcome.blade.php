@@ -839,7 +839,7 @@
                 <p class="exp-role">Anggota Bidang Pengaderan</p>
                 <p class="exp-org">BE Himatika FMIPA Unhas</p>
                 <p class="exp-desc">Aktif dalam kegiatan pengaderan dan pembinaan anggota baru, berkontribusi dalam merancang program pengembangan organisasi, serta membantu koordinasi kegiatan internal himpunan.</p>
-                <a href="https://www.instagram.com/himatikafmipaunhas/" target="_blank" class="exp-view-btn">
+                <a href="https://www.instagram.com/himatikafmipaunhas?igsh=Y215bDV4d2MweG9p" target="_blank" class="exp-view-btn">
                     <svg viewBox="0 0 24 24">
                         <rect x="2" y="2" width="20" height="20" rx="5"/>
                         <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"/>
@@ -854,7 +854,7 @@
                 <p class="exp-role">Ketua Panitia Mathematics, Actuarial, Information Systems Competition &amp; Summit (MATICS)</p>
                 <p class="exp-org">Himatika FMIPA Unhas</p>
                 <p class="exp-desc">Memimpin kepanitiaan Mathematics, Actuarial, Information Systems Competition & Summit (MATICS), mengkoordinasikan seluruh divisi, mengelola anggaran, serta memastikan kelancaran pelaksanaan kompetisi dari tahap persiapan hingga selesai.</p>
-                <a href="https://www.instagram.com/matics_unhas/" target="_blank" class="exp-view-btn">
+                <a href="https://www.instagram.com/matics_unhas?igsh=cWVtZ3F0b2cwMnU3" target="_blank" class="exp-view-btn">
                     <svg viewBox="0 0 24 24">
                         <rect x="2" y="2" width="20" height="20" rx="5"/>
                         <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"/>
@@ -869,7 +869,7 @@
                 <p class="exp-role">Ketua Panitia Proyek Edukasi Masyarakat Inklusif I (PREMI I) 2025</p>
                 <p class="exp-org">Himatika FMIPA Unhas</p>
                 <p class="exp-desc">Memimpin kepanitiaan Proyek Edukasi Masyarakat Inklusif I, bertanggung jawab atas koordinasi tim, pelaksanaan program edukasi masyarakat, serta memastikan seluruh kegiatan berjalan sesuai tujuan dan jadwal yang ditetapkan.</p>
-                <a href="https://www.instagram.com/premihimatika/" target="_blank" class="exp-view-btn">
+                <a href="https://www.instagram.com/premihimatika?igsh=YXpuejdrbDk2bGd0" target="_blank" class="exp-view-btn">
                     <svg viewBox="0 0 24 24">
                         <rect x="2" y="2" width="20" height="20" rx="5"/>
                         <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"/>
